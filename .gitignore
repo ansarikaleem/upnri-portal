@@ -1,0 +1,8 @@
+./upnri-backend/node_modules
+./upnri-frontend/node_modules
+
+
+ node_modules/
+
+ /upnri-frontend/node_modules/
+ /upnri-backend/node_modules/
